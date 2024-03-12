@@ -1,1 +1,1 @@
-"# Maruti" 
+# Maruti : Generative AI
