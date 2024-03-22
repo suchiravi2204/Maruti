@@ -33,5 +33,7 @@ Fine-tuning stable diffusion models with the following techniques to enhance the
 ### stable diffusion inpainting
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb)
 
-![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sd1.5-inpainting-01.png?)
-![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sd1.5-inpainting-01.png?)
+![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sd1.5-inpainting-01.png?)|:--:| 
+| *Sd 1.5* |
+![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sdxl-inp-01.png?)|:--:| 
+| *Sdxl* |
