@@ -19,7 +19,7 @@ Fine-tuning stable diffusion models with the following techniques to enhance the
 
 
 ### stable diffusion XL with dreambooth and lora
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exoper101/Maruti/blob/dev/SDXL_DreamBooth_LoRA.ipynb)
 
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sdxl_dreambooth_lora/op01.png)
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sdxl_dreambooth_lora/op03.png)
