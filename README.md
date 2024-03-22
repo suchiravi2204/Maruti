@@ -12,7 +12,7 @@ We used a set of images for a specific red color Maruti swift model with white b
 ## Experimentation & results
 Fine-tuning stable diffusion models with the following techniques to enhance the results.
 ### stable diffusion 1.5 with dreambooth
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exoper101/Maruti/blob/dev/Cars_DreamBooth_Stable_Diffusion.ipynb)
 
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sd1.5_dreambooth/op-sd1.5-01.png)
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sd1.5_dreambooth/op-sd1.5-02.png)
@@ -25,15 +25,17 @@ Fine-tuning stable diffusion models with the following techniques to enhance the
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sdxl_dreambooth_lora/op03.png)
 
 ### stable diffusion XL with textual inversion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exoper101/Maruti/blob/dev/Cars_textual_inversion_sdxl.ipynb)
 
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sdxl_textual_inversion/op-sdxl-tinv-01.png?)
 ![Result](https://github.com/exoper101/Maruti/blob/dev/results/sdxl_textual_inversion/op-sdxl-tinv-02.png?)
 
 ### stable diffusion inpainting
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb)
+#### stable diffusion 1.5
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exoper101/Maruti/blob/dev/Cars_sd_inpaint.ipynb)
 
-![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sd1.5-inpainting-01.png?)|:--:| 
-| *Sd 1.5* |
-![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sdxl-inp-01.png?)|:--:| 
-| *Sdxl* |
+![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sd1.5-inpainting-01.png?)
+#### stable diffusion XL
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exoper101/Maruti/blob/dev/inpainting_cars.ipynb)
+
+![Result](https://github.com/exoper101/Maruti/blob/dev/results/inpainting/op-sdxl-inp-01.png?)
