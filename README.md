@@ -1,5 +1,5 @@
 # Maruti Cars - Generative AI
-The aim of the project is to fine-tune the [stable diffusion]{https://github.com/huggingface/diffusers} models 
+The aim of the project is to fine-tune the [stable diffusion](https://github.com/huggingface/diffusers) models 
 on Maruti cars to generate realistic car model images in different environments using text prompts.
 
 ## Dataset
